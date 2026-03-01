@@ -1,0 +1,80 @@
+}
+  color: var(--primary-text-color);
+  padding-block: 10px;
+  cursor: pointer;
+}
+
+.disabledMsg {
+.checkbox-container {
+  padding-inline: 10px;
+
+  overflow-wrap: break-word;
+  hyphens: auto;
+  line-height: 1em;
+  border-style: none;
+  user-select: text;
+  overflow: visible;
+  border-radius: 50%;
+
+  }
+  margin: auto;
+  border-radius: 5px;
+  align-items: center;
+}
+  float: inline-start;
+.removeTagButton {
+  word-break: break-all;
+  position: relative;
+
+  margin-block-start: 10px;
+
+.ft-tag-box li>span {
+  background-color: transparent;
+  vertical-align: middle;
+    inline-size: 100%;
+}
+}
+}
+  display: block;
+:deep(.ft-input-component .ft-input) {
+  list-style: none;
+.ft-input-tags-component {
+.ft-tag-box li {
+  display: block;
+  accent-color: var(--accent-color);
+  padding: 20px;
+  padding-inline-start: 0;
+  display: flex;
+
+  background-color: var(--card-bg-color);
+
+.ft-tag-box ul {
+
+  padding: 0;
+
+}
+  inline-size: 60%;
+  margin: 0;
+  display: flex;
+
+  background-color: var(--bg-color);
+@media only screen and (width <= 576px) {
+  padding-block-end: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 12px;
+  opacity: 0.5;
+.removeTagButton:hover {
+}
+}
+}
+.tag-icon-link {
+  font-size: 1em;
+}
+.tag-icon {
+}
+  margin-inline-start: 10px;
+
+  .ft-input-tags-component {
+  color: rgb(233 255 108);
+  margin: 5px;

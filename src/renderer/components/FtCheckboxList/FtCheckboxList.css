@@ -1,0 +1,93 @@
+  }
+  inline-size: 1px;
+  border: 2px solid var(--primary-text-color);
+.pure-checkbox input[type='checkbox'] + label::before {
+/* stylelint-disable no-descending-specificity */
+
+}
+  transition: transform 200ms ease-out;
+
+  user-select: none;
+.pure-checkbox input[type='checkbox']:disabled:focus + label::before,
+  border-width: 0 0 3px 3px;
+.pure-checkbox input[type='checkbox']:focus + label::before,
+  margin-block: 0;
+}
+  border: 2px solid var(--primary-color);
+
+  transform-origin: 50%;
+.pure-checkbox input[type='checkbox']:checked + label::after {
+  padding-inline-start: 2em;
+.pure-checkbox input[type='checkbox']:disabled + label::before { border-color: #ccc; }
+  padding: 0;
+  color: var(--primary-text-color);
+  position: absolute;
+}
+  background-color: transparent;
+    margin-block-start: 3px;
+  animation: borderscale 200ms ease-in;
+  margin-block-start: -4px;
+  .pure-checkbox input[type='checkbox'] + label {
+
+  borderscale {  50% {
+  transform: rotate(-45deg) scale(0);
+.pure-checkbox input[type='checkbox']:disabled:hover + label::before { background-color: inherit; }
+.pure-checkbox input[type='checkbox']:checked + label::before {
+  }
+.pure-checkbox input[type='checkbox'] {
+  block-size: 1px;
+  content: '';
+.pure-checkbox input[type='checkbox']:disabled:checked + label::before { background-color: #ccc; }
+  transform: rotate(-45deg) scale(1);
+.checkboxTitle {
+  border: 0;
+.pure-checkbox input[type='checkbox']:active + label::before { transition-duration: 0s; }
+
+    box-shadow: 0 0 0 2px var(--primary-text-color);
+}
+  overflow: hidden;
+  transition: transform 200ms ease-out;
+  block-size: 14px;
+  inset-inline-start: 0;
+.pure-checkbox input[type='checkbox']:hover + label::before {
+}
+  position: relative;
+
+}
+
+  margin-block-start: 10px;
+  margin: -1px;
+  clip-path: circle(0);
+.pure-checkbox input[type='checkbox'] + label::after {
+  cursor: pointer;
+
+  inset-inline-start: 4px;
+  display: block;
+  inset-block-start: 50%;
+  content: '';
+
+
+  text-align: center;
+  inline-size: 8px;
+}
+  block-size: 3px;
+
+  position: absolute;
+  border-style: solid;
+.pure-checkbox input[type='checkbox'] + label {
+  margin-block-start: -9px;
+
+  inline-size: 14px;
+@media only screen and (width <= 680px) {
+  transition: all 0.4s ease;
+@keyframes
+}
+  box-sizing: content-box;
+}
+  position: absolute;
+
+  border-image: none;
+}
+  inset-block-start: 50%;
+  box-sizing: content-box;
+  content: '';

@@ -1,0 +1,134 @@
+  /* needed to have underline poke out */
+.titleContent {
+    inline-size: fit-content;
+  /* have underline poke out */
+  color: var(--primary-color);
+@media only screen and (width <= 1015px) {
+    position: relative;
+.title {
+  }
+  .settingsMenu {
+  /* prevent "active" border from visibly pushing the content up */
+}
+
+  border-block-end: 4px solid transparent;
+  inline-size: calc(100% + 6px);
+  margin-block: 0 10px;
+}
+.header {
+  inline-size: fit-content;
+    inline-size: 16px;
+    margin-inline: auto;
+    display: none;
+/* prevent hover styling from showing on title click for mobile */
+  .header {
+
+  color: var(--tertiary-text-color);
+  }
+  .title.active .titleUnderline {
+
+
+    max-inline-size: 90vw;
+}
+}
+
+  inline-size: 220px;
+    inset-block-start: 0;
+    block-size: 25px;
+  }
+  }
+  }
+  }
+
+
+.titleUnderline {
+@media only screen and (width >= 1015px) {
+  .title {
+  }
+    font-size: 32px;
+    inline-size: 30px;
+
+/* small height or width mobile breakpoint; intermediary text */
+
+  .title.active {
+  }
+  /* top nav + margin */
+
+  display: flex;
+  /* hide the settings icon on mobile to avoid confusion */
+    font-size: 25px;
+    color: var(--primary-text-color);
+    font-size: 25px;
+
+  .header {
+  .title:hover {
+.headingIcon {
+    font-weight: 600;
+/* overall mobile breakpoint; large text */
+  .titleIcon {
+    margin-inline-end: 10px;
+  }
+  .titleIcon {
+  .settingsMenu {
+  }
+}
+
+.iconAndTitleText {
+    color: var(--primary-text-color);
+
+  .titleIcon {
+  overflow-x: hidden;
+}
+  text-decoration: none;
+    font-size: 26px;
+@media only screen and (width <= 1015px) and (height <= 830px),
+  display: flex;
+  only screen and (width <= 500px) {
+    block-size: 16px;
+  .headingIcon {
+    font-size: 16px;
+}
+  .settingsMenu {
+    max-block-size: 1100px;
+
+    border-block-end: 4px solid var(--primary-color);
+  }
+
+    margin-block-start: 10px;
+  flex: 1 1 auto;
+    inline-size: 25px;
+.settingsMenu {
+}
+  }
+
+    block-size: 30px;
+
+    margin-inline-end: 5px;
+  position: sticky;
+  max-block-size: 600px;
+  max-inline-size: 100%;
+
+    inline-size: fit-content;
+  }
+
+  inline-size: fit-content;
+  block-size: calc(85vh - 96px);
+    margin-block: 0;
+@media (hover: hover) {
+  padding-inline-start: 0;
+  }
+
+
+  white-space: nowrap;
+  .header {
+
+  text-overflow: ellipsis;
+}
+  inset-block-start: 96px;
+}
+  flex-direction: column;
+}
+
+  margin-inline-start: 3px;
+    font-size: 30px;
+  align-items: center;

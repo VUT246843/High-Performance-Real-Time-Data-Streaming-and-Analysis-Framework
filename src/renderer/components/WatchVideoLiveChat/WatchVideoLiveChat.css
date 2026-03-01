@@ -1,0 +1,277 @@
+}
+
+.upperSuperChatMessage .channelName {
+  margin-inline-start: 5px;
+  background-color: var(--accent-color-light);
+}
+}
+
+.superChat {
+  font-size: 15px;
+  position: absolute;
+  inline-size: 14px;
+  padding-block: 5px 7px;
+  background-color: var(--accent-color);
+.popoutChatButton:active {
+}
+  inline-size: 100%;
+}
+  row-gap: 16px;
+}
+  color: var(--side-nav-hover-text-color);
+  line-height: 1em;
+  cursor: pointer;
+.upperSuperChatMessage .channelThumbnail {
+.channelThumbnail {
+
+  font-weight: bold;
+  margin: 0;
+.chatContent {
+  text-align: center;
+.superChatComments {
+  display: flex;
+  inline-size: 1em;
+}
+  color: var(--primary-text-color);
+}
+}
+  text-align: center;
+.upperSuperChatMessage {
+}
+}
+  block-size: 100%;
+.card.hasError {
+  inline-size: 100%;
+}
+
+  overflow-wrap: break-word;
+
+
+.icon {
+
+  text-align: center;
+
+  display: flex;
+.title,
+}
+
+  inline-size: 45px;
+
+.popoutChatIcon {
+  inline-size: 100%;
+}
+  position: relative;
+.moderator {
+  padding: 10px;
+  background-color: var(--primary-color);
+  opacity: 0.7;
+
+
+.liveChatComments {
+.owner {
+}
+  color: var(--tertiary-text-color);
+.messageContainer {
+  transition: background 0.2s ease-in;
+}
+
+.donationAmount {
+  gap: 5px;
+
+  block-size: 25px;
+  overflow-x: auto;
+  color: var(--tertiary-text-color);
+  position: absolute;
+  display: flex;
+  block-size: 55px;
+  font-size: 18px;
+  inline-size: 100%;
+  color: var(--tertiary-text-color);
+  padding-inline-end: 10px;
+  vertical-align: middle;
+  margin-block: 25px 10px;
+  block-size: auto !important;
+
+
+.popoutChatButton {
+  font-size: 22px;
+  transition: background 0.2s ease-out;
+  align-items: center;
+
+  flex-wrap: wrap;
+.openedSuperChat .superChatMessage {
+
+  inline-size: 25px;
+}
+  margin-inline-end: 2px;
+  background-color: var(--primary-color);
+}
+  margin-inline: 5%;
+.comment .superChatMessage {
+  border-radius: 200px;
+  color: var(--text-with-main-color);
+  display: grid;
+.superChat .channelThumbnail {
+  margin-inline: 2px;
+  inset-inline-start: 45%;
+  margin-block-start: -15px;
+  margin-block: 1em;
+
+
+
+  block-size: 50px;
+  overflow-wrap: break-word;
+
+
+  font-size: 20px;
+.scrollToBottom {
+  overflow-y: auto;
+  margin-inline: 2px;
+  padding: 0;
+}
+.member {
+  inline-size: 100%;
+.enableLiveChat {
+.upperSuperChatMessage .donationAmount {
+  cursor: auto;
+}
+
+  margin-inline-start: 65px;
+  color: #4caf50;
+.relative {
+  inset-block-start: -20px;
+  block-size: 30px;
+  margin-inline-start: 3px;
+  background-color: var(--primary-color-hover);
+}
+}
+.title {
+  flex-direction: column;
+  color: var(--text-with-main-color);
+  margin-block-start: 3px;
+
+}
+  margin-block: 0;
+  margin-block-start: -25px;
+
+  border-radius: 5px 5px 0 0;
+}
+  color: var(--side-nav-active-text-color);
+  position: relative;
+
+.scrollToBottom:hover,
+  margin-inline-start: 65px;
+.openedSuperChat {
+}
+}
+  transition: background 0.2s ease-out;
+  font-size: 12px;
+  inline-size: 90%;
+}
+  padding: 1px;
+  transition: background 0.2s ease-in;
+
+  inset-block-end: 20px;
+}
+}
+  border-radius: 50%;
+  cursor: pointer;
+
+
+}
+
+}
+.errorIcon {
+}
+  display: inline-block;
+
+  background-color: rgb(0 0 0 / 70%);
+  grid-template-columns: min-content auto;
+  inline-size: 35px;
+.superChatMessage {
+}
+  transition: background 0.2s ease-in;
+  white-space: nowrap;
+  color: var(--text-with-main-color);
+.badgeImage {
+
+.scrollToBottom:focus {
+  justify-content: space-between;
+.messageContainer.hasError {
+  color: var(--text-with-main-color);
+  justify-content: center;
+  cursor: pointer;
+.superChatContent {
+  padding-inline-end: 32px;
+
+  justify-content: center;
+  color: var(--tertiary-text-color);
+}
+  padding: 16px;
+.popoutChatButton {
+.watchingCount {
+  align-items: center;
+.popoutChatButton:hover {
+  grid-template-columns: auto;
+.comment {
+  color: var(--text-with-main-color);
+  margin-block: 5px 2px;
+  border-radius: 200px;
+  block-size: 415px;
+  inset-block-start: 0;
+}
+  color: var(--text-with-main-color);
+  border-style: none;
+.superChatMessage .chatMessage {
+  position: absolute;
+  padding-inline-end: 5px;
+  inset-block-start: 0.45rem;
+}
+  position: absolute;
+}
+  color: var(--text-with-accent-color);
+  font-weight: bold;
+  margin-inline-start: 20px;
+}
+}
+  position: relative;
+.titleContainer {
+  inline-size: 100%;
+
+}
+  background-color: var(--tertiary-text-color);
+
+  z-index: 1;
+  position: absolute;
+}
+.channelName {
+  margin-block-start: 5px;
+  inset-block-end: -15px;
+  inline-size: 100%;
+
+  border-radius: 200px;
+  font-size: 100px;
+  margin-inline-start: 32px;
+
+  color: #2196f3;
+  border-radius: 5px;
+
+
+}
+  background-color: var(--side-nav-hover-color);
+  background-color: var(--primary-color);
+  background-color: transparent;
+  block-size: 35px;
+  padding: 0;
+}
+  margin-inline-start: 10px;
+  margin: 0;
+
+:deep(.liveChatEmoji) {
+  margin-inline-start: -16px;
+.message {
+  pointer-events: none;
+  padding: 5px;
+  font-weight: normal;
+
+.comment .upperSuperChatMessage {

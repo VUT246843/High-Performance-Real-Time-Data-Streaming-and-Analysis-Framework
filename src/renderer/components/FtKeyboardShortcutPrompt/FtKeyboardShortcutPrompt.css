@@ -1,0 +1,100 @@
+  padding-block: 0.25em;
+
+  inline-size: 300px;
+}
+    flex: 0;
+}
+    inline-size: 200px;
+
+}
+}
+}
+  font-size: 20px;
+  font-weight: bold;
+.keyboardShortcutPrompt {
+@media only screen and (width <= 600px) {
+  font-family: monospace;
+h3 {
+  .primarySection {
+  padding-inline-end: 2em;
+}
+}
+
+.primarySection {
+    justify-content: flex-start;
+  .label {
+
+
+  flex: 0 0 500px;
+  flex-flow: row wrap;
+  border-block-start: 1px solid var(--primary-shadow-color);
+  text-align: center;
+}
+  display: flex;
+  .secondarySection {
+}
+
+.labelsAndShortcuts {
+
+  font-size: 16px;
+h3 {
+
+  table-layout: auto;
+  margin-block: 0.25em;
+  display: table;
+  font-size: 25px;
+
+.titleAndCloseButton {
+}
+}
+
+  display: table-cell;
+  overflow-x: hidden;
+.primarySections,
+.labelAndShortcut + .labelAndShortcut {
+
+  max-inline-size: 80%;
+
+  text-transform: capitalize;
+    min-inline-size: 200px;
+.shortcut {
+.shortcut {
+}
+  gap: 30px;
+  vertical-align: middle;
+
+h2 {
+  inline-size: 100%;
+.labelAndShortcut {
+  display: flex;
+  display: table-cell;
+
+.label {
+.secondarySection {
+  margin-inline-start: 10px;
+.label,
+  }
+h2,
+  }
+}
+}
+  border-collapse: collapse;
+
+
+  justify-content: space-between;
+  min-inline-size: 300px;
+
+.center {
+  inline-size: fit-content;
+  }
+.primarySection {
+
+  margin-block: 20px;
+
+}
+}
+
+}
+  display: table-row;
+:deep(.promptCard) {
+  justify-content: space-evenly;

@@ -1,0 +1,53 @@
+  cursor: pointer;
+  background: linear-gradient(270deg, var(--card-bg-color) 75%, transparent 100%);
+.description {
+
+}
+
+  text-decoration: underline;
+  text-decoration: none;
+.videoDescription.short .descriptionStatus:dir(rtl) {
+
+  max-block-size: 20lh;
+}
+  position: relative;
+  max-block-size: 4lh;
+.license {
+
+}
+  font-size: 17px;
+  overflow: hidden;
+}
+  position: absolute;
+.videoDescription:not(.short) .descriptionStatus {
+
+.videoDescription.short .descriptionStatus {
+  color: var(--title-color);
+
+  position: relative;
+.descriptionStatus {
+  flex-direction: column;
+  padding-inline-start: 40px;
+.videoDescription {
+  font-family: Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  inset-inline-end: 16px;
+
+}
+  margin-block: 1em;
+}
+  margin: 0;
+  white-space: pre-wrap;
+
+.videoDescription.short {
+  overflow-y: auto;
+  display: flex;
+  background: linear-gradient(270deg, transparent 0%, var(--card-bg-color) 25%);
+  overflow-wrap: anywhere;
+  cursor: pointer;
+  margin-block-start: 1em;
+.videoDescription.short .description {
+  padding-block: 2px;
+}
+}
+  inset-block-end: calc(1lh + 12px);
+}

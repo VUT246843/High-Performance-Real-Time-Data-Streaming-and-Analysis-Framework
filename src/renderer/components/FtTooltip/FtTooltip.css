@@ -1,0 +1,96 @@
+.button:hover + .text.bottom-left,
+  inset-inline-start: 100%;
+  transform: translate(calc(-50% * var(--horizontal-directionality-coefficient)), 1em);
+  transition-property: opacity, transform, visibility;
+.text.allowNewlines {
+  background-color: color-mix(in srgb, var(--primary-text-color) 80%, transparent);
+  position: relative;
+.button:hover + .text.left,
+  margin-inline-end: 1em;
+  transition-duration: 275ms;
+  opacity: 1;
+  white-space: pre-wrap;
+  inset-block-end: 100%;
+  border-style: none;
+.button:focus + .text.top,
+}
+
+  margin-block-start: 1em;
+  padding-inline: 8px;
+}
+.text.right {
+.text.bottom {
+  transform: translate(0, -50%);
+  margin-inline-start: 1em;
+}
+  inset-inline-start: 50%;
+  transform: translate(calc(1em * var(--horizontal-directionality-coefficient)), -50%);
+
+.button:hover + .text.right {
+
+  color: var(--primary-text-color);
+  text-align: start;
+  inset-block-start: 100%;
+}
+  inset-inline-start: -100px;
+  font-size: 1rem;
+
+.text.top {
+.button:focus + .text,
+  cursor: pointer;
+
+  inset-block-start: 50%;
+}
+  border-radius: 20px;
+  opacity: 0;
+.button:hover + .text {
+  color: var(--card-bg-color);
+
+  transform: translate(calc(-50% * var(--horizontal-directionality-coefficient)), -1em);
+  max-inline-size: max-content;
+  transform: translate(calc(-1em * var(--horizontal-directionality-coefficient)), -50%);
+  margin-block-start: 1em;
+  inline-size: 55vw;
+  background-color: transparent;
+  visibility: hidden;
+  margin: 0;
+  inset-inline-start: 50%;
+  min-inline-size: 15em;
+  padding: 0;
+}
+.button:hover + .text.bottom,
+  visibility: visible;
+
+.button:focus + .text.right,
+}
+.button:hover + .text.top {
+  pointer-events: none;
+  inset-inline-end: 100%;
+.button:focus + .text.bottom,
+
+
+.button:focus + .text.left,
+  position: absolute;
+  padding-block: 10px;
+}
+  inset-block-start: 100%;
+  transform: translate(calc(-50% * var(--horizontal-directionality-coefficient)), -1em);
+
+  transform: translate(calc(-50% * var(--horizontal-directionality-coefficient)), 0);
+}
+  inset-block-start: 50%;
+.text.left {
+.text.bottom-left {
+.button {
+  z-index: 2;
+}
+  margin-block-end: 1em;
+  display: inline-block;
+  line-height: 120%;
+.text {
+}
+  text-align: center;
+
+}
+.tooltip {
+  font-size: 1rem;

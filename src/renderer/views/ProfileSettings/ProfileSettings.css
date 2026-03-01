@@ -1,0 +1,37 @@
+  transition: background 0.2s ease-in;
+@media only screen and (width <= 680px) {
+    inline-size: 90%;
+  max-inline-size: 1000px;
+}
+
+  transition: background 0.2s ease-out;
+.openedProfile:hover,
+.message {
+  inline-size: 85%;
+
+.openedProfile:focus-visible {
+}
+  color: var(--tertiary-text-color);
+.openedProfile {
+}
+  }
+  margin-block: 0 10px;
+  background-color: var(--tertiary-text-color);
+  margin-inline: auto;
+  margin-block: 0 15px;
+.card {
+
+h2 {
+  text-align: center;
+}
+}
+  color: var(--card-bg-color);
+
+  background-color: var(--primary-text-color);
+}
+  margin-inline: auto;
+  .card {
+.profileList {
+
+
+}

@@ -1,0 +1,6 @@
+.ft-flex-box {
+  user-select: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+  flex-flow: row wrap;

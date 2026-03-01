@@ -1,0 +1,43 @@
+  margin-inline: auto;
+.trendingIcon {
+.trendingInfoTabs {
+}
+  grid-template-columns: 1fr 1fr 1fr;
+}
+  box-sizing: border-box;
+
+  inline-size: 85%;
+.selectedTab {
+    inline-size: 90%;
+.card {
+  margin-block: -3px 10px;
+}
+  color: var(--primary-text-color);
+  margin-block-end: -3px;
+  color: var(--primary-color);
+  margin-block: 0 60px;
+  display: grid;
+}
+
+  text-align: center;
+  font-size: 1.1em;
+  padding: 15px;
+}
+  inline-size: 100%;
+  font-weight: bold;
+  color: var(--tertiary-text-color);
+
+@media only screen and (width <= 680px) {
+.tab:hover {
+.tab {
+
+  font-weight: bold;
+  }
+  align-self: flex-end;
+}
+  border-block-end: 3px solid var(--primary-color);
+}
+
+  cursor: pointer;
+
+  .card {

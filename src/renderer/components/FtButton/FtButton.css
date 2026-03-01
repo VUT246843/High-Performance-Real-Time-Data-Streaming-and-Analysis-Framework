@@ -1,0 +1,58 @@
+}
+.ripple {
+  inline-size: 100%;
+  display: block;
+  font-family: Roboto, sans-serif;
+  block-size: 100%;
+.ripple::after {
+  vertical-align: middle;
+.btn:disabled {
+  cursor: pointer;
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+  position: relative;
+  pointer-events: none;
+  align-items: center;
+  margin: 5px;
+  min-inline-size: 100px;
+  opacity: 0.4;
+  transform: scale(0, 0);
+  cursor: not-allowed;
+  display: flex;
+  justify-content: center;
+  transform: scale(10, 10);
+
+  transition: transform 0.5s, opacity 1s;
+  position: absolute;
+
+}
+  gap: 10px;
+
+  background-image: radial-gradient(circle, #fff 10%, transparent 10.01%);
+  overflow: hidden;
+  padding-block: 10px;
+  background-position: 50%;
+  transition: 0.3s;
+}
+  font-size: 0.9rem;
+  content: '';
+.ripple:active::after {
+  opacity: 0;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+  font-weight: 500;
+  text-align: center;
+  background-repeat: no-repeat;
+  text-decoration: none;
+}
+  padding-inline: 20px;
+  transition: 0s;
+  white-space: nowrap;
+
+  inset-block-start: 0;
+  border-radius: 4px;
+.btn {
+  block-size: fit-content;
+  transform: translate3d(0, 0, 0);
+  inset-inline-start: 0;
+  border: 2px solid;

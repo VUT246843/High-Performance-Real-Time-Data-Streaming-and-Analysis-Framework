@@ -1,0 +1,13 @@
+
+.relative {
+}
+}
+  gap: 8px;
+}
+
+  display: grid;
+.watchVideoRecommendations {
+  display: flex;
+  position: relative;
+.VideoRecommendationsTopBar {
+  justify-content: space-between;

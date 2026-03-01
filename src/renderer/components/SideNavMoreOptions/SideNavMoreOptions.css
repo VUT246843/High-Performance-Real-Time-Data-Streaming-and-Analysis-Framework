@@ -1,0 +1,97 @@
+
+    text-align: center;
+  .navIcon {
+    padding-block: 10px;
+    padding-inline: 0;
+  cursor: pointer;
+  transition: background 0.2s ease-in;
+  }
+@media only screen and (width <= 400px) {
+
+  box-shadow: 3px -3px 5px 0 rgb(0 0 0 / 20%);
+
+}
+  .moreOption {
+  }
+  }
+  display: block;
+}
+
+.navOption {
+  color: var(--side-nav-hover-text-color);
+    display: block;
+
+.moreOptionContainer {
+    inset-block: auto 0;
+    block-size: 1.3em;
+  }
+  position: relative;
+    transform: translateX(0.2em);
+
+  }
+}
+  /* Show settings in more dropdown on smaller screens */
+    display: block;
+  }
+  background-color: var(--side-nav-color);
+  .sideNavMoreOptions {
+}
+  .navOption,
+  .closed .navOption {
+.navOption:hover {
+  }
+  .sideNav,
+}
+@media only screen and (width > 400px) {
+  }
+  background-color: var(--side-nav-active-color);
+  display: none;
+  padding: 5px;
+  }
+    margin-block-start: 0;
+}
+
+
+  .navLabel {
+
+
+
+  inset-block-end: 60px;
+    margin-block-start: 0.5em;
+    font-size: 11px;
+    display: none;
+
+
+  inline-size: 70px;
+    overflow-y: inherit;
+    inline-size: 70px;
+    margin-inline-start: 0;
+    inline-size: 100%;
+    display: block;
+    inline-size: 100%;
+  }
+@media only screen and (width <= 680px) {
+  .smallMobileOnlyShow {
+  .navIcon.fa-user-check {
+  .smallMobileOnlyShow {
+    /* Align icon according to torso */
+.sideNavMoreOptions {
+
+  transition: background 0.2s ease-in;
+  .closed .navIconExpand {
+    display: block;
+  text-decoration: none;
+  position: fixed;
+    inline-size: 100%;
+  .closed {
+.navOption:active {
+  z-index: 0;
+}
+    block-size: 60px;
+    inset-inline-start: 0;
+  color: inherit;
+}
+  color: var(--side-nav-active-text-color);
+    margin-inline-start: 0;
+  background-color: var(--side-nav-hover-color);
+    block-size: 40px;

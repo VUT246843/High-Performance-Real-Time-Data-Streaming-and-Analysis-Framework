@@ -1,0 +1,9 @@
+.select {
+}
+  margin-block-end: 12px;
+.switchGrid {
+}
+  inline-size: auto;
+  min-inline-size: 240px;
+
+  gap: 10px;

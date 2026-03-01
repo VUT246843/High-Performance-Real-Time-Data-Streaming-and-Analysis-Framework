@@ -1,0 +1,47 @@
+
+  color: var(--tertiary-text-color);
+  border-radius: 10px;
+  /* Prevents overflow for long values */
+  overflow-wrap: anywhere;
+
+}
+.shelfUnderline {
+  border-color: var(--primary-color);
+  /* Prevents overflow for long values */
+  max-inline-size: 100%;
+  color: var(--accent-color);
+
+  font-style: italic;
+}
+}
+  font-size: 20px;
+.playAllSpan {
+.shelfSubtitle {
+
+  max-inline-size: 100%;
+  font-size: 18px;
+  text-decoration: none;
+
+}
+.playAllLink:hover {
+.shelfTitle {
+  max-inline-size: 85vw;
+.playAllLink {
+
+  padding-block: 5px;
+  overflow-wrap: anywhere;
+  background-color: var(--bg-color);
+  margin-inline-start: 10px;
+  padding-inline: 7px;
+
+}
+
+.shelfTitle::marker {
+  font-style: italic;
+}
+  font-size: 24px;
+
+  cursor: pointer;
+}
+.shelfContainer {
+}

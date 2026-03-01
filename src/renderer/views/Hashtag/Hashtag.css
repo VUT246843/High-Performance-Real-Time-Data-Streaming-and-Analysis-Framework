@@ -1,0 +1,31 @@
+@media only screen and (width <= 680px) {
+.card {
+  background-color: var(--side-nav-hover-color);
+
+  line-height: 45px;
+.getNextPage:hover,
+  margin-block-start: 16px;
+}
+  block-size: 45px;
+  inline-size: 100%;
+
+  .card {
+  cursor: pointer;
+}
+}
+  margin-inline: auto;
+.getNextPage:focus {
+  color: var(--primary-color);
+}
+    inline-size: 90%;
+  background-color: var(--search-bar-color);
+  }
+.getNextPage {
+
+  inline-size: 85%;
+  color: var(--side-nav-hover-text-color);
+}
+.headingIcon {
+  text-align: center;
+  margin-block: 0 20px;
+

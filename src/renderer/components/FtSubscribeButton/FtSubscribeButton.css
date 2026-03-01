@@ -1,0 +1,139 @@
+}
+  /* accounts for parent's left and right margins */
+  box-sizing: content-box;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+  box-sizing: content-box;
+  display: flex;
+  align-items: center;
+.profileDropdownToggle {
+  min-inline-size: 1em;
+  margin-block-end: 10px;
+  text-align: start;
+  background-color: var(--side-nav-hover-color);
+  color: var(--text-with-main-color);
+  color: var(--secondary-text-color);
+  padding-inline: 5px;
+  inline-size: calc(100% - 10px);
+  justify-content: center;
+  border-start-start-radius: 0;
+  flex-shrink: 0;
+.profileDropdown {
+}
+}
+  flex: auto;
+
+  cursor: pointer;
+  padding-inline: 0;
+
+  border-inline-start: none !important;
+
+  min-inline-size: 100px;
+  position: relative;
+.profileDropdownToggle.dropdownOpened {
+  max-block-size: 200px;
+.subscribeButton.hasProfileDropdownToggle,
+  user-select: none;
+  user-select: none;
+  block-size: 40px;
+  font-size: 12px;
+  block-size: fit-content;
+.subscribeButton,
+
+  text-align: center;
+}
+}
+  margin: 0;
+}
+.profile.subscribed {
+  box-shadow: none;
+}
+  background-color: var(--primary-color);
+.ftSubscribeButton {
+  border-end-end-radius: 0;
+}
+  padding-block: 5px;
+
+  border-end-start-radius: 0;
+  display: inline;
+
+}
+  text-align: center;
+  align-self: center;
+  display: flex;
+.profileName {
+}
+.colorOption {
+
+.buttonList {
+  white-space: initial;
+  text-overflow: ellipsis;
+  flex-wrap: nowrap;
+  display: inline-block;
+  padding-inline-end: 1em;
+.profile:hover {
+  font-size: 20px;
+
+  transition: background 0.2s ease-in;
+  border-inline-end: 2px solid var(--primary-color-active) !important;
+  border-end-start-radius: 0;
+
+
+  overflow: hidden;
+
+  line-height: 1em;
+.profileList {
+  align-items: center;
+  inline-size: 40px;
+  z-index: 3;
+  margin: 5px;
+  border-radius: 4px;
+  min-inline-size: 150px;
+  list-style-type: none;
+  inline-size: fit-content;
+
+  padding-inline: 6px;
+  border-start-end-radius: 0;
+
+  margin-block: 0;
+  margin-block: -10px 0;
+.profileDropdownToggle {
+
+.profile.subscribed > .profileName {
+  background-color: var(--primary-color);
+.subscribeButton.hasProfileDropdownToggle {
+}
+}
+.subscribeButton.dropdownOpened,
+
+  text-align: start;
+  block-size: 2em;
+}
+}
+  border-radius: 50%;
+}
+}
+  padding-inline: 10px;
+  color: var(--side-nav-hover-text-color);
+
+.subscribeButton {
+  cursor: pointer;
+  margin-inline: 5px 0;
+
+  block-size: 50px;
+  /* addresses odd clipping behavior when adjusting window size */
+.profileDropdownToggle {
+.initial {
+  transition: background 0.2s ease-out;
+  overflow-y: scroll;
+  position: absolute;
+  gap: 0.5em;
+  margin-inline: 0;
+.profile {
+  display: flex;
+  background-color: var(--side-nav-color);
+  white-space: nowrap;
+  border-end-end-radius: 0;
+
+  padding-inline-start: 0.5em;
+}

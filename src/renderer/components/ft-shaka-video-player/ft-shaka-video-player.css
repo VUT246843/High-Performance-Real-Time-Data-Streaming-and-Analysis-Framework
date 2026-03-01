@@ -1,0 +1,260 @@
+  opacity: 0;
+  /*
+  align-items: center;
+  padding: 10px;
+@media only screen and (width <=1000px) {
+  pointer-events: none;
+  font-size: 32px;
+  }
+}
+  background-color: #000;
+  padding: 0;
+}
+  color: #fff;
+}
+  background-color: #000;
+  right: 2%;
+}
+}
+}
+
+  .stats {
+  display: flex;
+    Force left to right, so that the UI doesn't break.
+:deep(.markerContainer) {
+  align-items: center;
+
+  transition: opacity cubic-bezier(0.4, 0, 0.6, 1) 0.6s;
+  height: 100%;
+  width: 2px;
+}
+
+  .skippedSegment,
+  z-index: 1000;
+  left: 5px;
+:deep(.shaka-controls-container[shown='true'] > .playerFullscreenTitleOverlay) {
+  flex-direction: row;
+  :deep(.shaka-text-container) {
+  font-size: 30px;
+.player {
+  padding: 10px;
+  color: #fff;
+  z-index: 2;
+  border-radius: 5px;
+  background-color: #000;
+  user-select: none;
+  transition: opacity 0.5s ease;
+    For vertical videos and full window mode the background is visible,
+  gap: 10px;
+  background-color: rgb(0 0 0 / 70%);
+
+    background-color: rgb(0 0 0 / 90%);
+}
+  }
+  display: flex;
+:deep(.playerFullscreenTitleOverlay) {
+  font-size: xx-large;
+:deep(.chapterMarker) {
+  padding: 0;
+}
+.fade-leave-active {
+  */
+  display: none;
+  gap: 4px;
+  width: 100%;
+.ftVideoPlayer {
+  background-color: rgb(0 0 0 / 80%);
+  text-overflow: ellipsis;
+    font-size: large;
+  position: absolute;
+  margin-block: 0;
+
+.vrCanvas {
+  text-wrap: nowrap;
+  line-height: 1.4em;
+  padding: 0;
+}
+}
+  }
+  aspect-ratio: 16 / 9;
+
+  overflow: hidden;
+  margin: 0;
+  position: absolute;
+  top: 5px;
+@media only screen and (width <=1350px) {
+:deep(.sponsorBlockMarker) {
+.fullWindow {
+
+  opacity: 0;
+  top: 20px;
+
+    to appear after exiting full screen and full window.
+}
+  align-items: center;
+.ftVideoPlayer:fullscreen :deep(.playerFullscreenTitleOverlay) {
+}
+
+}
+
+.fade-enter-active,
+.skippedSegmentsWrapper {
+}
+
+
+  direction: ltr;
+
+/* stylelint-disable liberty/use-logical-spec */
+.fade-enter-from,
+}
+  */
+  /* user-select is intentionally not disabled, so that you can select and copy the stats */
+}
+  display: flex;
+  font-size: 0.8em;
+}
+  inset: 0;
+}
+    With rtl, the progress bar was filling from the left, but the scrubber was moving from the right.
+  position: absolute;
+  /*
+  z-index: 2;
+  position: absolute;
+.valueChangePopup.invert-content-order {
+.stats {
+.sixteenByNine {
+  background-color: var(--primary-color);
+
+
+  margin: 0;
+  opacity: 0.6;
+  margin: 0;
+  /* copied from .shaka-scrim-container */
+  gap: 10px;
+   */
+
+}
+  margin: 0;
+  pointer-events: none;
+
+  font-size: 1.1em;
+  position: relative;
+  color: #fff;
+  padding: min(calc(15% / 2), 55px);
+  position: absolute;
+  top: 5px;
+.valueChangePopup {
+  inset: 0;
+/* added to the body element */
+  inset-inline-end: 20px;
+  height: 100%;
+  background-color: rgb(0 0 0 / 70%);
+}
+  left: initial;
+
+  border-radius: 5px;
+}
+
+  pointer-events: none;
+
+  flex-direction: column;
+
+@media only screen and (width <=400px) {
+@media (prefers-reduced-transparency) {
+
+}
+:deep(.shaka-controls-container > .shaka-play-button-container > .shaka-play-button) {
+.offlineIcon {
+  justify-content: center;
+:deep(.sponsorBlockMarker),
+}
+  overflow: hidden;
+}
+
+.ftVideoPlayer:fullscreen :deep(.full-window-button),
+  color: #fff;
+}
+:deep(.chapterMarker) {
+  left: 5px;
+  color: #fff;
+    display: none;
+}
+    font-size: 16px !important;
+.fullWindow :deep(.theatre-button) {
+
+  transform: translateX(-50%);
+
+  display: flex;
+
+  font-weight: normal;
+  position: absolute;
+    But also vertically in case context menu overflows.
+
+:deep(.playerFullscreenTitleOverlay:dir(rtl)) {
+  position: absolute;
+  border-radius: 5px;
+}
+  overflow: hidden;
+}
+/* stylelint-enable liberty/use-logical-spec */
+  :deep(.theatre-button) {
+
+.fullWindow > .player {
+}
+.offlineMessage {
+  width: 85px;
+
+  border-radius: 20px;
+  border-radius: 10px;
+  margin-inline-start: 20px;
+:deep(.shaka-bottom-controls) {
+  bottom: max(15%, calc(46px + 2.5% + 3%)); /* 46px + 2.5% is the height of the controls */
+
+.skippedSegment {
+
+  display: none;
+  opacity: 1;
+  position: absolute;
+  max-width: initial !important;
+  width: 100%;
+  height: 100%;
+
+:deep(.shaka-controls-button-panel>.ft-shaka-skip-button .material-svg-icon) {
+  }
+  padding: 10px;
+
+  background-color: rgb(0 0 0 / 50%);
+  :deep(.playerFullscreenTitleOverlay) {
+.fade-leave-to {
+.offlineMessageSubtitle {
+
+  margin: 0;
+  top: 20px;
+
+  width: 100%;
+  left: 50%;
+  padding: 10px;
+  right: 5px;
+
+  height: 100%;
+    /* make subtitles take up slightly less space when a mobile phone is in portrait orientation */
+  /*
+  width: 100%;
+  position: absolute !important;
+.ftVideoPlayer:fullscreen :deep(.theatre-button),
+  inset: 0;
+  display: block;
+}
+}
+    so we want to make it black as it defaults to transparent
+}
+    Fixes the seek bar thumbnails causing a horizontal scroll bar
+  flex-direction: row-reverse;
+:global(.playerFullWindow) {
+
+}
+
+  max-width: calc(100% - 10px);
+    video.js forced the direction for their controls too
+.offlineWrapper {
+  :deep(.playerFullscreenTitleOverlay),

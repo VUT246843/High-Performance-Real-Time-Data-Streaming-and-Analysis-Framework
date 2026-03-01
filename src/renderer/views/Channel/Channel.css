@@ -1,0 +1,56 @@
+  margin-block-end: 10px;
+
+
+.elementListLoading {
+  }
+  .channelDetails {
+@media only screen and (width <= 800px) {
+
+.select-container {
+  margin-block-start: 200px;
+}
+  cursor: pointer;
+    max-inline-size: none;
+  position: relative;
+
+
+  .communityPanel {
+  padding: 0;
+.getNextPage {
+@media only screen and (width <= 680px) {
+  }
+}
+  line-height: 45px;
+  margin-block-start: 16px;
+  box-sizing: border-box;
+  block-size: 45px;
+.message {
+  color: var(--tertiary-text-color);
+  }
+}
+}
+.channelDetails {
+  text-align: center;
+}
+  max-inline-size: 92vw;
+.card {
+  display: flex;
+  margin-inline: auto;
+}
+  justify-content: flex-end;
+
+    inline-size: 100%;
+}
+
+@media only screen and (width <= 260px) {
+  .card {
+    max-inline-size: none;
+  flex-direction: row;
+}
+  inline-size: 100%;
+    margin-block-start: 1rem;
+
+  background-color: var(--search-bar-color);
+  margin-block: 0 20px;
+  inline-size: 85%;
+}

@@ -1,0 +1,38 @@
+  cursor: pointer;
+  font-size: 35px;
+  margin-inline: auto;
+  block-size: 115px;
+}
+  transition: background 0.2s ease-in;
+
+  transition: background 0.2s ease-out;
+
+  border-radius: 50%;
+
+  block-size: 70px;
+
+  text-align: center;
+  inline-size: 100px;
+  text-align: center;
+  padding-inline: 10px;
+}
+  padding-block: 10px 30px;
+  background-color: var(--side-nav-hover-color);
+  margin-block: 20px 5px;
+  line-height: 1em;
+  font-size: 14px;
+}
+.bubblePadding:hover {
+.bubble {
+  user-select: none;
+.initial {
+  padding-inline: 0;
+  inline-size: 70px;
+  line-height: 1.5em;
+}
+.profileName {
+.bubblePadding {
+  padding-block: 17.5px;
+  color: var(--side-nav-hover-text-color);
+}
+  overflow: hidden;

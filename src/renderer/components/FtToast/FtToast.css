@@ -1,0 +1,43 @@
+  transform: translate(calc(-50% * var(--horizontal-directionality-coefficient)), 0);
+}
+
+  /* Higher than any prompt */
+.message {
+  pointer-events: auto;
+  padding: 10px;
+
+  text-align: center;
+  background-color: rgb(0 0 0 / 70%);
+  display: flex;
+  opacity: 0;
+  overflow-y: auto;
+  color: #fff;
+}
+
+  inset-inline-start: 50vw;
+}
+  transition: visibility 0s linear 0s, opacity 300ms;
+.closed {
+.toast-holder {
+
+
+}
+  margin: 5px;
+.open {
+  visibility: visible;
+  pointer-events: none;
+  cursor: pointer;
+  visibility: hidden;
+  z-index: 300;
+.toast {
+  margin: auto;
+}
+  opacity: 1;
+  align-items: center;
+  position: fixed;
+  border-radius: 20px;
+  flex-direction: column;
+  opacity: 0;
+  inset-block-end: 50px;
+  transition: visibility 0s linear 300ms, opacity 300ms;
+  pointer-events: none;

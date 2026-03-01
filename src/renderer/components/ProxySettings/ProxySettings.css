@@ -1,0 +1,15 @@
+  margin-block-end: 1rem;
+  font-size: large;
+
+  padding-block: 12px;
+}
+.warning-icon {
+}
+
+.protocol-dropdown {
+}
+  color: var(--text-with-accent-color);
+  padding-inline: 4%;
+  font-weight: bold;
+.proxy-warning {
+  background-color: var(--accent-color);

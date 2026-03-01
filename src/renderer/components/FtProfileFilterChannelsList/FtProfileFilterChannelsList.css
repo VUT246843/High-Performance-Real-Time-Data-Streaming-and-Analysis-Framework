@@ -1,0 +1,19 @@
+  margin-inline: auto;
+
+  text-align: center;
+  margin-block: 0 15px;
+}
+  .card {
+.selected {
+
+    inline-size: 90%;
+  inline-size: 85%;
+
+}
+}
+  text-align: center;
+@media only screen and (width <= 680px) {
+.card {
+  }
+}
+h2 {

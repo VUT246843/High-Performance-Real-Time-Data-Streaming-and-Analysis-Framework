@@ -1,0 +1,160 @@
+*/
+  color: var(--tertiary-text-color);
+.select-text:focus ~ .select-bar::after {
+  margin-block-start: 30px;
+.selectTooltip {
+.select-icon {
+
+.select-bar::after {
+.iconSelect {
+  text-overflow: ellipsis;
+}
+}
+  inline-size: 100px;
+  position: absolute;
+}
+  inset-inline-end: 10px;
+  block-size: 14px;
+/*
+  inset-block-start: -22px;
+  position: absolute;
+
+    the Free Software Foundation, either version 3 of the License, or
+}
+  inline-size: 14px;
+/*
+/* LABEL ======================================= */
+}
+  font-size: 14px;
+  inset-block-start: 25%;
+  position: relative;
+  content: '';
+}
+    FreeTube is free software: you can redistribute it and/or modify
+  position: relative;
+  content: '';
+  block-size: 60%;
+.disabled,
+
+  background-color: var(--search-bar-color);
+}
+  color: var(--accent-color);
+  padding-inline-start: 1rem;
+  inset-inline-start: 0;
+  inline-size: 200px;
+
+
+}
+  inline-size: 100%;
+}
+  opacity: 0.4;
+  inset-inline-end: 13px;
+}
+/* active state */
+}
+  display: block;
+
+  transition: 0.2s ease all;
+  block-size: 2px;
+.select-label {
+.select-highlight {
+}
+  display: flex;
+.select-bar {
+  inset-block-start: 10px;
+.select-bar::before {
+  .select {
+  font-size: 18px;
+/* Use custom arrow */
+  cursor: not-allowed;
+  outline: none;
+.select .select-text {
+  border-radius: 5px;
+.select-text:focus {
+    This file is part of FreeTube.
+  background: var(--accent-color);
+  inset-block-end: 1px;
+    GNU General Public License for more details.
+    along with FreeTube.  If not, see <http://www.gnu.org/licenses/>.
+.select-text {
+
+* https://codepen.io/pavelvaravko/pen/qjojOr
+
+}
+  font-size: 16px;
+
+
+  border: 0;
+*/
+  pointer-events: none;
+  color: var(--secondary-text-color);
+  transition: 0.2s ease all;
+}
+  padding: 0;
+  position: absolute;
+  inset-inline-start: 50%;
+    You should have received a copy of the GNU General Public License
+  inline-size: 0;
+  block-size: 45px;
+}
+  pointer-events: none;
+  color: var(--tertiary-text-color);
+
+  padding-inline-end: 1.5rem;
+.disabled + .iconSelect {
+.select-bar::before,
+  transition: 0.2s ease all;
+  }
+.select-text:focus ~ .select-label,
+/* BOTTOM BARS ================================= */
+  position: absolute;
+.select option {
+* Credit goes to pavelvaravko for making this css.
+
+
+}
+
+  border-inline-start: 6px solid transparent;
+.select-text:focus ~ .select-bar::before,
+  font-weight: normal;
+
+}
+  position: relative;
+/* HIGHLIGHTER ================================== */
+
+
+  inset-inline-start: 0;
+  opacity: 0.5;
+
+    it under the terms of the GNU General Public License as published by
+    (at your option) any later version.
+  inset-inline-end: 50%;
+
+
+    FreeTube is distributed in the hope that it will be useful,
+/* stylelint-disable-next-line a11y/no-outline-none */
+  inset-block-start: -20px;
+
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+.select-text:valid ~ .select-label {
+    inline-size: 100%;
+
+.select-bar::after {
+  position: absolute;
+/* active state */
+  /* Styling the down arrow */
+/* select starting stylings ------------------------------ */
+  column-gap: 6px;
+  inset-block-start: 10px;
+  border-inline-end: 6px solid transparent;
+
+  inline-size: 50%;
+}
+  appearance: none;
+.select {
+@media only screen and (width <= 800px) {
+  background-color: var(--card-bg-color);
+  font-family: inherit;
+
+  color: var(--primary-text-color);
+    but WITHOUT ANY WARRANTY; without even the implied warranty of

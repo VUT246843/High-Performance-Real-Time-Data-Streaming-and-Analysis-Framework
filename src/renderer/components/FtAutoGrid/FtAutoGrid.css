@@ -1,0 +1,11 @@
+
+  gap: 4px;
+  grid-template-columns: repeat(auto-fill, minmax(262px, 1fr));
+}
+  display: grid;
+.list {
+  gap: 8px;
+.grid {
+  justify-content: space-evenly;
+}
+  display: grid;

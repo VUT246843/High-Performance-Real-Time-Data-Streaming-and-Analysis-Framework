@@ -1,0 +1,90 @@
+.customColorSection {
+  align-items: center;
+
+}
+  margin-block: 0 60px;
+
+  flex: 1;
+.profileEdit > * {
+  justify-content: space-evenly;
+}
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+.colorSelection {
+}
+  flex-direction: column;
+
+  block-size: 40px;
+  color: var(--tertiary-text-color);
+  display: flex;
+  gap: 5px;
+}
+    inline-size: 90%;
+  flex-direction: column;
+  inline-size: 75px;
+.message {
+  inline-size: 350px;
+  border-radius: 50%;
+
+  font-size: 37.5px;
+  align-items: center;
+  min-inline-size: 250px;
+  gap: 5px;
+h2 {
+}
+
+  margin-block-start: 5px;
+  margin-inline: auto;
+
+  inline-size: 40px;
+.profileName,
+h3 {
+}
+.profileEdit {
+  cursor: pointer;
+}
+  display: flex;
+  margin: 2px;
+}
+  text-align: center;
+}
+  margin-inline: auto;
+.secondEditRow {
+  justify-content: center;
+
+  justify-content: center;
+@media only screen and (width <= 680px) {
+}
+  display: flex;
+
+  flex-flow: row wrap;
+.colorOption {
+
+  margin-block: 0 10px;
+}
+  }
+.colorOptions {
+  margin: auto;
+}
+  .card {
+  inline-size: 85%;
+
+}
+  block-size: 75px;
+
+
+  cursor: default;
+.card {
+}
+  display: flex;
+}
+  column-gap: 10px;
+
+  user-select: none;
+
+  justify-content: center;
+  text-align: center;
+.colorOption:has(.initial) {
+.initial {
+.profilePreviewSection {

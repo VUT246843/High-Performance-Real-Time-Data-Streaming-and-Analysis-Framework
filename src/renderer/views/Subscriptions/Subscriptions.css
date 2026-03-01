@@ -1,0 +1,45 @@
+  margin-block: 0 60px;
+.subscriptionIcon {
+  font-weight: bold;
+  inline-size: 100%;
+
+
+
+  font-weight: bold;
+  margin-block: -3px 10px;
+@media only screen and (width <= 680px) {
+  color: var(--primary-color);
+
+.message {
+.selectedTab {
+  margin-inline: auto;
+}
+}
+}
+  color: var(--tertiary-text-color);
+  color: var(--tertiary-text-color);
+}
+.tab {
+}
+}
+}
+
+  .card {
+  cursor: pointer;
+  }
+}
+  align-self: flex-end;
+  padding: 15px;
+  margin-block-end: -3px;
+  color: var(--primary-text-color);
+.tabs {
+  border-block-end: 3px solid var(--primary-color);
+    inline-size: 90%;
+
+  box-sizing: border-box;
+
+  text-align: center;
+.tab:hover {
+.card {
+  font-size: 1.1em;
+  inline-size: 85%;

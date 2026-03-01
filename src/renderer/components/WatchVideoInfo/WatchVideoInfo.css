@@ -1,0 +1,137 @@
+}
+}
+
+  white-space: nowrap;
+.likeBar {
+}
+  gap: 4px;
+}
+  margin-inline-end: 10px;
+  margin-block: 0;
+  margin-inline-start: auto;
+}
+
+  display: flex;
+.watchVideoInfo {
+  display: flex;
+  .videoButtons {
+
+  cursor: pointer;
+  color: var(--tertiary-text-color);
+
+  font-weight: 500;
+.unlistedBadge {
+    margin-block-start: 10px;
+  color: inherit;
+}
+  .likeSection {
+  block-size: 8px;
+}
+  justify-content: space-between;
+}
+  position: relative;
+}
+  max-inline-size: 210px;
+
+
+  padding: 16px;
+  white-space: nowrap;
+  font-size: 14px;
+  padding-block: 2px;
+  display: block;
+  display: flex;
+
+    display: none;
+  flex-direction: column;
+    flex-direction: column;
+    flex-direction: column;
+  inline-size: 56px;
+
+  border-radius: 4px;
+.videoMetrics {
+  }
+}
+  margin-block-end: 4px;
+}
+    justify-content: left;
+  flex-direction: column;
+  color: var(--tertiary-text-color);
+
+    margin-inline-start: 0;
+
+
+  font-size: 13px;
+}
+}
+  border-radius: 5px;
+  display: flex;
+  padding-inline: 5px;
+
+@media screen and (width <= 460px) {
+@media screen and (width <= 730px) {
+.videoButtons {
+.videoViews {
+.videoMetrics,
+  overflow-wrap: break-word;
+  inset-block-start: -2px;
+
+}
+  display: flex;
+  }
+    inset-inline: 0 auto;
+  display: flex;
+
+  text-decoration: inherit;
+  }
+}
+  }
+.likeSection {
+
+}
+  }
+  margin-inline: 0;
+  align-items: center;
+  margin-inline-end: 0;
+    text-align: start;
+  .seperator {
+  .videoOptionsMobileRow :deep(.iconDropdown) {
+
+    align-items: flex-start;
+}
+  background-color: var(--secondary-card-bg-color);
+  margin-block-start: 4px;
+  gap: 8px;
+@media screen and (width <= 380px) {
+    margin-block-start: 10px;
+  }
+  cursor: pointer;
+  gap: 4px;
+  .videoOptions {
+  font-weight: normal;
+
+  margin-inline-start: 6px;
+.channelThumbnail {
+.channelName {
+  margin-block-end: 3px;
+
+  border-radius: 50%;
+  gap: 10px;
+@media screen and (width <= 680px) {
+    flex-direction: column;
+.videoOptionsMobileRow {
+    display: flex;
+
+  .datePublishedAndViewCount {
+.videoOptions {
+  gap: 3px;
+  display: inline;
+.profileRow {
+  display: flex;
+    align-items: flex-start;
+  text-align: end;
+  display: block;
+.videoTitle {
+  font-size: 22px;
+}
+.likeCount {
+  align-items: center;

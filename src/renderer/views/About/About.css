@@ -1,0 +1,73 @@
+  font-size: 24px;
+  inline-size: 500px;
+  background-color: var(--bg-color);
+
+.icon {
+
+  gap: 16px;
+.chunk {
+  .about-chunks {
+  grid-area: icon;
+}
+}
+  border-radius: 8px;
+  box-shadow: 0 1px 4px -1px rgb(0 0 0 / 50%);
+
+  margin: 0;
+
+
+
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+  grid-template: 'icon title' auto 'icon content' 1fr / auto 1fr;
+
+
+.about-chunks {
+
+}
+    grid-template-columns: 1fr;
+}
+  align-items: start;
+
+  grid-area: content;
+}
+.logo {
+  display: grid;
+    inline-size: 90%;
+  color: var(--primary-color);
+.brand {
+  margin: 0;
+.version {
+  max-inline-size: 860px;
+  text-align: center;
+  margin-inline: auto;
+  display: grid;
+  }
+@media only screen and (width <=650px) {
+}
+  overflow-wrap: break-word;
+  max-inline-size: 100%;
+  gap: 6px 14px;
+.headingIcon {
+  margin-inline: auto;
+  }
+.content {
+}
+  grid-area: title;
+  inline-size: 85%;
+  grid-template-columns: 1fr 1fr;
+@media only screen and (width <=680px) {
+  justify-content: start;
+  padding: 18px;
+.card {
+}
+  margin-block: 0 60px;
+  font-size: 2em;
+
+.title {
+}
+  margin-block-end: 1em;
+}
+  .card {
+}

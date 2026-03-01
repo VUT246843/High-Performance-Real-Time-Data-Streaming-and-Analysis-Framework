@@ -1,0 +1,67 @@
+    grid-template-columns: auto;
+
+.headingIcon {
+  margin-inline-start: auto;
+.searchInputsRow {
+  color: var(--tertiary-text-color);
+  grid-template-columns: 1fr auto;
+  margin-inline: auto;
+  margin-inline-start: 0.5em;
+    /* Switch to 2 rows from 2 columns */
+@media only screen and (width <= 680px) {
+  display: inline-block;
+}
+@media only screen and (width <= 800px) {
+}
+}
+    grid-template-columns: auto;
+  .card {
+.headingText {
+  grid-template-rows: 1fr;
+
+
+}
+
+
+}
+  /* 2 columns */
+    grid-template-rows: auto auto;
+    inline-size: 90%;
+  grid-template-columns: repeat(2, 1fr);
+    align-items: stretch;
+  color: var(--primary-color);
+}
+
+  vertical-align: middle;
+  }
+.newPlaylistButton {
+
+@media only screen and (width <= 800px) {
+
+  display: grid;
+  align-items: center;
+  margin-block: 0 60px;
+.message {
+  column-gap: 16px;
+.optionsRow {
+  position: relative;
+.card {
+}
+}
+    /* Switch to 2 rows from 2 columns */
+.sortSelect {
+  display: grid;
+}
+  /* Put it on the right */
+  .optionsRow {
+
+  inline-size: 85%;
+  }
+}
+  }
+}
+  .searchInputsRow {
+  display: inline-block;
+
+
+    grid-template-rows: auto auto;

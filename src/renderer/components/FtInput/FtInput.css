@@ -1,0 +1,256 @@
+
+.hover {
+}
+
+}
+  font-size: 1em;
+  justify-content: space-between;
+  color: var(--side-nav-active-text-color);
+}
+.clearInputTextButton.visible:active {
+/* stylelint-disable no-descending-specificity */
+  border-radius: 100%;
+.ft-input-component.search.showClearTextButton:focus-within {
+  color: var(--tertiary-text-color);
+  block-size: 16px;
+.forceTextColor .ft-input:focus {
+
+
+
+  padding-inline-start: 46px;
+}
+
+.ft-input-component.inputDataPresent .clearInputTextButton.visible,
+  background-color: transparent;
+.inputAction {
+.inputWrapper {
+  background-color: var(--primary-color-active);
+  padding-inline: 15px;
+.ft-input-component:focus-within:not(.showOptions) .clearInputTextButton.visible {
+}
+.inputAction.enabled:hover {
+}
+  inset-block-start: 12px;
+
+  font-size: 1em;
+  With arrow present means
+}
+.ft-input-component.showOptions .clearInputTextButton {
+  margin-inline: 3px;
+  user-select: none;
+
+  transition: background 0.2s ease-in;
+
+  background-color: var(--side-nav-hover-color);
+.forceTextColor .inputAction {
+.clearInputTextButton {
+  cursor: pointer;
+
+  color: #eee;
+.ft-input-component:focus-within .clearInputTextButton,
+  overflow: hidden;
+  transition: box-shadow 0.2s ease-in-out;
+  overflow-wrap: break-word;
+}
+
+}
+}
+  background-color: var(--search-bar-color);
+
+  border-radius: 0 0 5px 5px;
+  color: #eee;
+  opacity: 1;
+  inline-size: 100%;
+}
+.ft-input-component.search.showClearTextButton {
+
+.ft-input-component.search.showClearTextButton:focus-within .ft-input {
+.buttonIcon {
+.ft-input-component.search.clearTextButtonVisible,
+.forceTextColor .inputAction.enabled:active {
+  background-color: var(--primary-color-hover);
+}
+  position: absolute;
+}
+  display: flex;
+}
+
+  line-height: 1em;
+
+
+.optionWrapper {
+
+  padding-inline: 0;
+}
+.ftcomponent ::placeholder {
+}
+
+  outline: none;
+  color: var(--side-nav-hover-text-color);
+.removeButton {
+.forceTextColor .inputAction.enabled:hover {
+  the text might get under the arrow with normal padding
+
+.search ::-webkit-calendar-picker-indicator {
+.ft-input-component {
+}
+  line-height: 1em;
+  display: flex;
+  background-color: var(--tertiary-text-color);
+  margin-inline: 3px;
+.removeButtonSelected {
+.clearTextButtonVisible.search .ft-input,
+  border-style: none;
+
+.forceTextColor .clearInputTextButton {
+  text-decoration: none;
+  padding: 1rem;
+.clearInputTextButton.visible:hover {
+  text-decoration: underline;
+   */
+}
+
+  position: relative;
+  background-color: var(--primary-input-color);
+}
+  opacity: 0.5;
+body[dir='rtl'] .ft-input-component.search.showClearTextButton .inputAction {
+.ft-input-component.showClearTextButton:not(.search) .ft-input {
+  padding-inline-end: 10px;
+  inset-block-start: 5px;
+  background-color: var(--side-nav-hover-color);
+
+
+}
+
+  color: #eee;
+}
+.clearTextButtonVisible:not(.showOptions) .clearInputTextButton.visible,
+.inputAction.enabled {
+}
+  opacity: 0.5;
+  background-color: var(--primary-color-active);
+}
+.inputAction.enabled:active {
+  box-shadow: 0 0 10px var(--scrollbar-color-hover);
+.removeButton:hover,
+
+  margin: 0;
+  transition: background 0.2s ease-in;
+  transition: background 0.2s ease-in;
+  inline-size: 1em;
+}
+  z-index: 10;
+  /* Only look respond to cursor when enabled */
+
+}
+}
+  inline-size: 16px;
+}
+  background-color: transparent;
+  opacity: 0.4;
+.forceTextColor .ft-input {
+  background-color: var(--search-bar-color);
+  inset-inline-end: 0;
+}
+.ft-input-component.showActionButton .ft-input {
+
+.searchResultIcon {
+}
+  box-sizing: border-box;
+  float: inline-end;
+  padding: 10px;
+  border-radius: 5px;
+.search .clearInputTextButton {
+
+/* Main search input */
+}
+  border-style: none;
+
+  padding-inline-end: calc(36px + 6px);
+.disabled {
+  color: var(--side-nav-active-text-color);
+
+}
+.forceTextColor .clearInputTextButton:active {
+  background-color: var(--scrollbar-color-hover);
+  inset-inline-end: -30px;
+
+.list {
+  line-height: 2rem;
+  background-color: var(--tertiary-text-color);
+
+.list li {
+.ft-input {
+  border-radius: 100%;
+  padding: 10px;
+  position: absolute;
+  inset-block-start: -8px;
+  padding-block: 5px;
+  block-size: 45px;
+  transition: background 0.2s ease-in;
+  inline-size: 100%;
+body[dir='rtl'] .ft-input-component.search.showClearTextButton:focus-within .inputAction {
+
+body[dir='rtl'] .ft-input-component.search.clearTextButtonVisible .inputAction,
+
+  cursor: pointer;
+  padding-inline-start: 0;
+  /* To be higher than `.inputWrapper` */
+
+
+  color: var(--primary-text-color);
+  position: absolute;
+  margin-block: 0;
+}
+
+
+  opacity: 0;
+  /* this should look disabled by default */
+
+  color: #eee;
+}
+  padding-inline-start: 46px;
+}
+}
+  overflow: hidden;
+  z-index: 1;
+  inset-inline-start: 0;
+
+
+  font-size: 16px;
+}
+  border: 0;
+  box-shadow: 0 0 1rem 0 var(--primary-input-color);
+  align-items: baseline;
+}
+
+  color: var(--side-nav-hover-text-color);
+  inset-inline-end: 0;
+  list-style: none;
+  color: var(--secondary-text-color);
+
+}
+  cursor: not-allowed;
+  color: var(--scrollbar-text-color-hover);
+}
+.forceTextColor .clearInputTextButton:hover {
+.forceTextColor ::placeholder {
+}
+  padding-block: 0;
+  position: relative;
+
+  font-weight: bold;
+  display: none;
+  color: var(--primary-text-color);
+  opacity: 0.6;
+  /*
+  margin-block: 0;
+.optionWrapper span {
+  padding-inline-start: 30px;
+  margin-block-end: 10px;
+
+}
+  font-size: 13px;
+  opacity: 1;
+  background-color: var(--primary-color-hover);

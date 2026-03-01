@@ -1,0 +1,45 @@
+.ftNotificationBanner {
+
+  background-color: var(--primary-color);
+  position: relative;
+@media only screen and (width <= 680px) {
+.message {
+  font-size: 1em;
+  display: flex;
+  */
+  line-height: 1em;
+  padding-block: 3px 5px;
+  /*
+  cursor: pointer;
+  margin: 4px;
+  background-color: transparent;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  padding-inline: 16px;
+  color: inherit;
+.closeButton {
+  align-items: center;
+
+}
+  }
+}
+}
+
+}
+
+  background-color: var(--accent-color);
+.ftNotificationBanner:focus {
+  cursor: pointer;
+  color: var(--text-with-accent-color);
+
+  padding: 0.4em;
+}
+    font-size: 1.6em;
+.closeIcon {
+}
+  flex-grow: 1;
+  border-style: none;
+
+  box-shadow: 20px 20px 20px rgb(0 0 0 / 10%);
+  color: var(--text-with-main-color);
+  .closeButton {
+  inline-size: 1em;

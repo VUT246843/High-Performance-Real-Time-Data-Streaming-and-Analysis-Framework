@@ -1,0 +1,42 @@
+}
+  display: flex;
+
+  color: var(--primary-text-color);
+.aboutInfo {
+.aboutTag {
+  list-style: none;
+  margin: 0;
+.aboutTags {
+
+.aboutDetails {
+}
+  justify-content: center;
+}
+  padding-inline-end: 10px;
+  position: relative;
+  z-index: 1;
+  padding: 10px;
+  border-radius: 7px;
+  font-size: 17px;
+  text-align: start;
+
+
+  padding: 0;
+  flex-flow: row wrap;
+  white-space: pre-wrap;
+  margin-block-start: 0;
+  background-color: var(--secondary-card-bg-color);
+.aboutTagLink {
+  gap: 5px 15px;
+}
+}
+
+}
+.aboutDetails th {
+}
+  background-color: var(--card-bg-color);
+
+  text-decoration: none;
+  display: flex;
+  padding: 7px;
+.about {

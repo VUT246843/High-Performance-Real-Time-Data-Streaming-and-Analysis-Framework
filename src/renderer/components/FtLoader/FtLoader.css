@@ -1,0 +1,72 @@
+  align-items: center;
+*/
+
+
+
+  animation: sk-bounce 2s infinite ease-in-out;
+  100% {
+
+* Find it here: http://tobiasahlin.com/spinkit/
+}
+  position: relative;
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  inline-size: 100%;
+@keyframes sk-bounce {
+/*
+* Twitter: https://twitter.com/tobiasahlin
+  inset-block-start: 0;
+}
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+}
+
+    along with FreeTube.  If not, see <http://www.gnu.org/licenses/>.
+    This file is part of FreeTube.
+    transform: scale(0);
+
+  }
+    You should have received a copy of the GNU General Public License
+
+  margin-block: 100px;
+
+  block-size: 85vh;
+*/
+* Thanks to @tobiasahlin for the loading animation.
+
+}
+.double-bounce2 {
+  block-size: 40px;
+  padding: 0;
+.fullscreen {
+  50% {
+  animation-delay: -1s;
+  display: flex;
+.double-bounce1,
+    FreeTube is distributed in the hope that it will be useful,
+  inline-size: 40px;
+  position: absolute;
+  margin: 0;
+    it under the terms of the GNU General Public License as published by
+.spinner {
+}
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+  block-size: 100%;
+
+    transform: scale(1);
+  opacity: 0.6;
+  inset-inline-start: 0;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  }
+  inline-size: 100%;
+  justify-content: center;
+  margin-inline: auto;
+.double-bounce2 {
+  0%,
+}
+    GNU General Public License for more details.
+
+.container {
+    FreeTube is free software: you can redistribute it and/or modify
+  block-size: 100%;
+/*
