@@ -111,7 +111,7 @@
     "vue-eslint-parser": "^10.2.0",
     "vue-loader": "^17.4.2",
     "webpack": "^5.105.3",
-    "webpack-cli": "^6.0.1",
+    "webpack-cli": "^7.0.0",
     "webpack-dev-server": "^5.2.3"
   }
 }
