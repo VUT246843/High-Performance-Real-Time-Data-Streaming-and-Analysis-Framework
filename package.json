@@ -73,11 +73,11 @@
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
-    "@babel/preset-env": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
     "@double-great/stylelint-a11y": "^3.4.3",
     "@eslint/js": "^9.39.2",
     "@intlify/eslint-plugin-vue-i18n": "^4.1.1",
-    "babel-loader": "^10.0.0",
+    "babel-loader": "^10.1.1",
     "copy-webpack-plugin": "^13.0.1",
     "css-loader": "^7.1.4",
     "css-minimizer-webpack-plugin": "^7.0.4",
